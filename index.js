@@ -48,3 +48,11 @@
 /*
 11. Create a method, 'update', in user that accepts the options object and adds keys to the user (but doesn't override any existing values in the object)
 */
+
+/*
+12. Create two product objects that have variables for name and price and quantity (defaults to 1).
+*/
+
+/*
+13. Create an object, 'shoppingCart', that has a variable for 'user' and an array for 'products'. Create a method, 'addProduct', that accepts a product and adds it to products. BUT, if the same product is added twice, the cart should simply increment the quantity of the existing product.
+*/
