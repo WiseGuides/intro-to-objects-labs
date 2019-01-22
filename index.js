@@ -36,3 +36,15 @@
 /*
 9. Create a method, 'render', in 'me.address', that outputs the address.
 */
+
+/*
+10. Create a 'user' object with keys and values for firstName and lastName, level
+*/
+
+/*
+10. Create an 'options' object with keys and values for level, status, and ability.
+*/
+
+/*
+11. Create a method, 'update', in user that accepts the options object and adds keys to the user (but doesn't override any existing values in the object)
+*/
